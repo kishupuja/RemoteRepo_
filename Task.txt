@@ -1,0 +1,6 @@
+public class Demo{
+public static void main (String() args){
+String s1="welcome to git-hub Mr.Kishore";
+String s2=new String("I hope you will learn more for git-hub");
+}
+}
